@@ -264,11 +264,13 @@
     font-weight: 600;
     line-height: 20px;
 }
-@media (max-width:1000px) {
+@media (max-width:1400px) {
     #m2_id_sec2Con {
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
+}
+@media (max-width:1000px) {
     #m2_id_sec3Con {
         display: grid;
         grid-template-columns: 1fr;
